@@ -1,0 +1,11 @@
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\bin\Debug\My_Database_Procedure.exe.config
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\bin\Debug\My_Database_Procedure.exe
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\bin\Debug\My_Database_Procedure.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.csproj.AssemblyReference.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.Form1.resources
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.Properties.Resources.resources
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.csproj.GenerateResource.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.exe
+C:\Users\ramis\Desktop\dr_atef_c#\adonet\My_Database_Procedure\obj\Debug\My_Database_Procedure.pdb
